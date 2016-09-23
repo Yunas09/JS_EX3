@@ -1,8 +1,8 @@
-document.getElementById("div1").style.backgroundColor="red";
+document.getElementById("div1").style.backgroundColor="green";
 document.getElementById("div1").style.height="100px";
 document.getElementById("div1").style.width="100px";
 
-document.getElementById("div2").style.backgroundColor="blue";
+document.getElementById("div2").style.backgroundColor="red";
 document.getElementById("div2").style.height="100px";
 document.getElementById("div2").style.width="100px";
 
